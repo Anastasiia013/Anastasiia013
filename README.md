@@ -37,14 +37,4 @@
 
 - 🇺🇸 English — fluent  
 - 🇩🇪 German — B1  
-- 🇺🇦 Ukrainian — native  
-- 🇷🇺 Russian — fluent
-
----
-
-### 📫 Contact me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/YOUR-LINK](https://www.linkedin.com/in/anastasiiaposokhova/))  
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/posokhovah)
-
----
+- 🇺🇦 Ukrainian — native
