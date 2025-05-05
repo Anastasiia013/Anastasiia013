@@ -1,5 +1,6 @@
 ## <h1 align="center">Hi, I'm Anastasiia 👋</h1>
 <h3 align="center">Fullstack JavaScript Developer based in Austria 🇦🇹</h3>
+> _“Code is like writing: if it’s unclear, rewrite it.”_
 
 ---
 
@@ -46,15 +47,3 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/posokhovah)
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
-
----
-
-> _“Code is like writing: if it’s unclear, rewrite it.”_
-
