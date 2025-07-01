@@ -1,15 +1,15 @@
-## <h1 align="center">Hi, I'm Anastasiia 👋</h1>
+<h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
 <h3 align="center">Fullstack JavaScript Developer based in Austria 🇦🇹</h3>
 > _“Code is like writing: if it’s unclear, rewrite it.”_
 
 ---
 
-🧠 **About me:**
+**About me:**
 
 - 💻 Fullstack web developer (27 y.o.)  
-- 🚀 Focused on React, Node.js, TypeScript, MongoDB  
-- 🌐 Languages: English, German, Ukrainian, Russian
+- 🚀 Focused on React, Node.js, JavaScript, TypeScript, MongoDB, PostgreSQL  
+- 🌐 Languages: English, German, Ukrainian
 - 🎓 Master's degree in Journalism  
 
 ---
