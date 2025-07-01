@@ -5,7 +5,8 @@
 - 💻 Fullstack JavaScript developer based in Austria 🇦🇹 (27 y.o.)  
 - 🚀 Focused on React, Node.js, JavaScript, TypeScript, MongoDB, PostgreSQL  
 - 🌐 Languages: English, German, Ukrainian
-- 🎓 Master's degree in Journalism  
+- 🎓 Master's degree in Journalism
+
 
 ## 🔧 My tech stack & tools:
 
@@ -20,6 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
 </p>
+
 
 ## 🌐 Languages I speak:
 
