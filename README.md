@@ -1,15 +1,13 @@
 <h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
-<h3 align="center">Fullstack JavaScript Developer based in Austria 🇦🇹</h3>
-
 **About me:**
 
-- 💻 Fullstack web developer (27 y.o.)  
+- 💻 Fullstack JavaScript developer based in Austria 🇦🇹 (27 y.o.)  
 - 🚀 Focused on React, Node.js, JavaScript, TypeScript, MongoDB, PostgreSQL  
 - 🌐 Languages: English, German, Ukrainian
 - 🎓 Master's degree in Journalism  
 
----
+--
 
 ### 🔧 Tech Stack & Tools
 
@@ -28,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
 </p>
 
----
+--
 
 ### 🌐 Languages I speak
 
