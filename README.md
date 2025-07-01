@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
+---
+
 **About me:**
 
 - 💻 Fullstack JavaScript developer based in Austria 🇦🇹 (27 y.o.)  
