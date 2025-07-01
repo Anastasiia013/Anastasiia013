@@ -7,7 +7,7 @@
 - 🌐 Languages: English, German, Ukrainian
 - 🎓 Master's degree in Journalism  
 
---
+---
 
 ### 🔧 Tech Stack & Tools
 
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VSCode"/>
 </p>
 
---
+---
 
 ### 🌐 Languages I speak
 
