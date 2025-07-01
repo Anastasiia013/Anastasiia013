@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Anastasiia 👋</h1>
 
 <h3 align="center">Fullstack JavaScript Developer based in Austria 🇦🇹</h3>
-> _“Code is like writing: if it’s unclear, rewrite it.”_
-
----
 
 **About me:**
 
